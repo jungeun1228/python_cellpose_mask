@@ -1,5 +1,5 @@
 # python_cellpose_mask2
-Image analysis: Reorganizing and sorting Image files and creating CellPose mask
+Image analysis: Reorganizing and sorting image files and creating CellPose mask
 
 Four types of images were acquired from 384-well plates using high-content imaging across four different channels.
 Fluorescence images for nuclei and phase-contrast images were used to segment the cytoplasm of individual cells.
